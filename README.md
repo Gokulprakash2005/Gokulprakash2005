@@ -1,7 +1,5 @@
 <h2 align="center" style="font-family: 'Times New Roman', Times, serif;">
-    👋 I am a passionate web developer with hands-on experience in frontend technologies like HTML, CSS,
-    JavaScript, and React.js, and backend expertise in Java, Spring Boot, MySQL. Skilled in problem-solving
-    and version control with Git.
+"Hi, I’m Gokul Prakash a web developer skilled in React.js, Java, Spring Boot, and MySQL. I focus on building responsive, scalable applications and enjoy problem-solving with clean, efficient code. Experienced with Git and always eager to learn."
 </h2>
 <h3 align="center">"Passionate Web Developer | Java & Spring Boot Enthusiast | Building Solutions with React."</h3>
 
