@@ -1,4 +1,7 @@
-<h1 align="center">👋 Hi, I'm Gokul Prakash! Passionate web developer with skills in Java, JavaScript, HTML, CSS, React, and Git. Currently working on innovative projects to solve K.Gokul Prakash</h1>
+<h1 align="center">👋
+I am a passionate web developer with hands-on experience in frontend technologies like HTML, CSS,
+JavaScript, and React.js, and backend expertise in Java, Spring Boot, MYSQL Skilled in problem-solving
+and version control with Git</h1>
 <h3 align="center">"Passionate Web Developer | Java & Spring Boot Enthusiast | Building Solutions with React."</h3>
 
 - 👨‍💻 All of my projects are available here [https://gokulprakash2005.github.io/Portfolio/](https://gokulprakash2005.github.io/Portfolio/)
