@@ -1,8 +1,8 @@
-<h2 align="center" style="font-family: 'Times New Roman', Times, serif;">
+<h3 align="center" style="font-family: 'Times New Roman', Times, serif;">
 I'm a Full-Stack Developer with hands-on experience in building scalable web applications, automation tools, and AI-assisted systems. I have contributed to projects in a startup environment, including analytics dashboards, admin portals, course portals, railway security systems, and LinkedIn automation bots.
-</h2>
-<h3 align="center">"Full-Stack Developer | Startup Experience
-Tech Stack: Next.js | React.js | Neon DB | MySQL | SQL | Java | Spring Boot | REST API | Postman | Vercel | AI-Assisted Development (Amazon Q) | Git | GitHub"</h3>
+</h3>
+<h4 align="center">"Full-Stack Developer | Startup Experience
+Tech Stack: Next.js | React.js | Neon DB | MySQL | SQL | Java | Spring Boot | REST API | Postman | Vercel | AI-Assisted Development (Amazon Q) | Git | GitHub"</h4>
 
 - 👨‍💻 All of my projects are available here [https://gokulprakash2005.github.io/Portfolio/](https://gokulprakash2005.github.io/Portfolio/)
 
@@ -53,10 +53,5 @@ Tech Stack: Next.js | React.js | Neon DB | MySQL | SQL | Java | Spring Boot | RE
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
   </a>
-  <a href="https://neon.tech/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Neon_logo.svg" alt="neon-db" width="40" height="40"/>
-  </a>
-  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/vercel-1.svg" alt="vercel" width="40" height="40"/>
-  </a>
+ 
 </p>
