@@ -1,7 +1,8 @@
 <h2 align="center" style="font-family: 'Times New Roman', Times, serif;">
-"Hi, I’m Gokul Prakash a web developer skilled in React.js, Java, Spring Boot, and MySQL. I focus on building responsive, scalable applications and enjoy problem-solving with clean, efficient code. Experienced with Git and always eager to learn."
+I'm a Full-Stack Developer with hands-on experience in building scalable web applications, automation tools, and AI-assisted systems. I have contributed to projects in a startup environment, including analytics dashboards, admin portals, course portals, railway security systems, and LinkedIn automation bots.
 </h2>
-<h3 align="center">"Passionate Web Developer | Java & Spring Boot Enthusiast | Building Solutions with React."</h3>
+<h3 align="center">"Full-Stack Developer | Startup Experience
+Tech Stack: Next.js | React.js | Neon DB | MySQL | SQL | Java | Spring Boot | REST API | Postman | Vercel | AI-Assisted Development (Amazon Q) | Git | GitHub"</h3>
 
 - 👨‍💻 All of my projects are available here [https://gokulprakash2005.github.io/Portfolio/](https://gokulprakash2005.github.io/Portfolio/)
 
