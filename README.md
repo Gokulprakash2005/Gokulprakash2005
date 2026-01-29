@@ -1,7 +1,10 @@
-<h3 align="center" style="font-family: 'Times New Roman', Times, serif;">
-Full-stack developer skilled in modern web technologies with hands-on internship experience across frontend, backend,database, and deployment workflows. Experienced building production-grade applications, REST APIs, and automation.systems using Next.js, Node.js, Spring Boot, and relational databases. 
-</h3>
-<h4 align="center">"Full-Stack Developer | Startup Experience | Tech Stack: Next.js | React.js | Neon DB | MySQL | SQL | Java | Spring Boot | REST API | Postman | Vercel | AI-Assisted Development (Amazon Q) | Git | GitHub"</h4>
+<h5 align="center" style="font-family: 'Times New Roman', Times, serif;">
+Full-stack developer skilled in modern web technologies with hands-on internship experience across frontend, backend,
+database, and deployment workflows. Experienced building production-grade applications, REST APIs, and automation
+systems using Next.js, Node.js, Spring Boot, and relational databases. Passionate about solving technical problems,
+optimizing workflows, and delivering scalable solutions with clean UX and performance in mind.
+</5>
+<h5 align="center">"Full-Stack Developer | Startup Experience | Tech Stack: Next.js | React.js | Neon DB | MySQL | SQL | Java | Spring Boot | REST API | Postman | Vercel | AI-Assisted Development (Amazon Q) | Git | GitHub"</h5>
 
 - 👨‍💻 All of my projects are available here [https://gokulprakash2005.github.io/Portfolio/](https://gokulprakash2005.github.io/Portfolio/)
 
