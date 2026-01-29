@@ -6,7 +6,7 @@ optimizing workflows, and delivering scalable solutions with clean UX and perfor
 </h4>
 <h5 align="center">"Full-Stack Developer | Startup Experience | Tech Stack: Next.js | React.js | Neon DB | MySQL | SQL | Java | Spring Boot | REST API | Postman | Vercel | AI-Assisted Development (Amazon Q) | Git | GitHub"</h5>
 
-- 👨‍💻 All of my projects are available here [https://gokulprakash2005.github.io/Portfolio/](https://gokulprakash2005.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available here [https://portfolio-ashy-six-53.vercel.app/](https://portfolio-ashy-six-53.vercel.app/)
 
 - 📫 Mail id **gokulprakash1301@gmail.com**
 
