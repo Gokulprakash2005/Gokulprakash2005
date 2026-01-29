@@ -7,11 +7,11 @@ I am a <strong>Full-Stack Developer</strong> with hands-on experience in designi
 </p>
 
 
-- 👨‍💻 Portfolio [https://portfolio-ashy-six-53.vercel.app/](https://portfolio-ashy-six-53.vercel.app/)
+- 👨‍💻 Portfolio [View All Projects](https://portfolio-ashy-six-53.vercel.app/)
 
 - 📫 Mail id **gokulprakash1301@gmail.com**
 
-- 📄 Experience & Background [https://lime-adriane-26.tiiny.site/](https://lime-adriane-26.tiiny.site/)
+- 📄 Experience & Background [Learn More](https://gokul-prakash-k.tiiny.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
