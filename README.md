@@ -1,5 +1,5 @@
 <h3 align="center" style="font-family: 'Times New Roman', Times, serif;">
-I'm a Full-Stack Developer with hands-on experience in building scalable web applications, automation tools, and AI-assisted systems. I have contributed to projects in a startup environment, including analytics dashboards, admin portals, course portals, railway security systems, and LinkedIn automation bots.
+Full-stack developer skilled in modern web technologies with hands-on internship experience across frontend, backend,database, and deployment workflows. Experienced building production-grade applications, REST APIs, and automation.systems using Next.js, Node.js, Spring Boot, and relational databases. Passionate about solving technical problems,optimizing workflows, and delivering scalable solutions with clean UX and performance in mind.
 </h3>
 <h4 align="center">"Full-Stack Developer | Startup Experience
 Tech Stack: Next.js | React.js | Neon DB | MySQL | SQL | Java | Spring Boot | REST API | Postman | Vercel | AI-Assisted Development (Amazon Q) | Git | GitHub"</h4>
