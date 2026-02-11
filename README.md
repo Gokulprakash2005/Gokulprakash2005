@@ -1,5 +1,9 @@
 <p align="center" style="font-family: 'Calibri', sans-serif; line-height:1.6;">
-I am a <strong>Full-Stack Developer</strong> with hands-on experience in designing and building scalable web applications, REST APIs, and automation systems. Skilled across <strong>frontend, backend, databases, and deployment workflows</strong>, I leverage technologies like <strong>React.js, Next.js, Spring Boot, MySQL, Neon DB, and Node.js</strong> to deliver robust and efficient solutions. Passionate about solving complex technical problems, optimizing workflows, and creating clean, user-friendly experiences.
+Full-stack developer with hands-on internship experience in frontend and backend development, specializing in Java,
+Spring Boot, React.js, and RESTful APIs, with experience building responsive web applications and database-driven
+systems. Proficient in developing scalable features using modern frameworks and tools. Possess a strong foundation in
+data structures, problem-solving, and software engineering principles.
+
 </p>
 
 <p align="center" style="font-family: 'Calibri', sans-serif; font-weight: 600; color: #333;">
